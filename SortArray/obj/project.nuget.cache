@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBS9s4hwZ+kwuykUkPNlE5wn/D8bglrFWNamZpLSx+OpKqGNnjVq6TTMtEs1lUuWnThGPvqlpEmXxws/wkrTAQ==",
+  "success": true,
+  "projectFilePath": "D:\\SortArray_Release_3\\SortArray\\SortArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\7.0.3\\microsoft.codeanalysis.netanalyzers.7.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
