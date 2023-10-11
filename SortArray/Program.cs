@@ -18,7 +18,7 @@ namespace SortArray
         public static void Main()
         {
             Console.WriteLine(new string('-', 39));
-            Console.WriteLine("Program to Sort a Two Dimensional Array");
+            Console.WriteLine("2D ARRAY SORTER:");
             Console.WriteLine(new string('-', 39));
 
             // Gets the two dimensional array and other parameters from the user.
